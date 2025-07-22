@@ -11,7 +11,7 @@ setup_hotspot.sh*
 SCRIPT_PATH="/usr/local/sbin/update-ip-issue.sh"
 
 # install the script
-sudo install -x update-ip-issue.sh $SCRIPT_PATH
+sudo install -m 755 update-ip-issue.sh $SCRIPT_PATH
 
 # Ensure the script exists
 if [ ! -x "$SCRIPT_PATH" ]; then
