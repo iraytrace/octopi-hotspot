@@ -12,7 +12,7 @@ The default linux login prompt is augmented with information so you can find the
 🚀 OctoPrint Hotspot Info  
 📶 SSID: octopi-1a2b  
 🌐 Available at:  
- • eth0 → http://10.0.1.200  
+ • eth0 → ``http://10.0.1.200``  
  • wlan0 → http://192.168.50.1  
  • http://octopi.lan  
 
