@@ -1,4 +1,4 @@
-octopi-hotspot
+# octopi-hotspot
 
 Scripts to setup a hotspot on a Octopi.  
 This allows you to take your printer and Octopi on the road.  
