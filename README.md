@@ -9,12 +9,12 @@ Great for STEM events, field printing, etc.
 Each Octopi creates a unique SSID based on the serial number of the cpu such as "octopi-1a2b"
 The default linux login prompt is augmented with information so you can find the SSID and IP addresses:
 
-🚀 OctoPrint Hotspot Info
-📶 SSID: octopi-1a2b
-🌐 Available at:
- • eth0 → http://10.0.1.200
- • wlan0 → http://192.168.50.1
- • http://octopi.lan
+🚀 OctoPrint Hotspot Info  
+📶 SSID: octopi-1a2b  
+🌐 Available at:  
+ • eth0 → http://10.0.1.200  
+ • wlan0 → http://192.168.50.1  
+ • http://octopi.lan  
 
 The wired ethernet interface is left active.
 
